@@ -1,0 +1,10 @@
+#logo {
+  width: 180px;
+}
+
+#shapka {
+  width: 100%;
+  height: 600px;
+  background: url("../../assets/img/shapka.jpg");
+}
+
